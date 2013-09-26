@@ -17,7 +17,7 @@
         $('#main_content').headsmart()
       })
     </script>
-    <title>print(ashwin67.code)</title>
+    <title>Ashwin Upadhyaya Works by ashwin67</title>
   </head>
 
   <body>
@@ -27,8 +27,8 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>Code by ashwin67</h1>
-            <h2><a href="http://ashwinupadhyaya.com">who ashwin67</a></h2>
+            <h1>Ashwin Upadhyaya Works</h1>
+            <h2>return (0xFFFFFFFF);</h2>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -46,8 +46,8 @@
 
       <section id="main_content">
         <h3>Learning</h3>
-	
-	<p><a href="learning/learningJS.html">Learning Javascript</a> - Started sometime 2013</p>
+
+	<p><a href="/learning/learningJS.html">Learning Javascript</a></p>
 
       </section>
 
